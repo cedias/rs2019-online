@@ -11,7 +11,7 @@ This is the online version of [reco2019](https://github.com/cedias/reco2019) rep
 
 ## Binders:
 - RS1 : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cedias/rs2019-online/rs1?filepath=%2FRS1%2FRS1.ipynb)
-- RS2 : [![Binder](https://mybinder.org/v2/gh/cedias/rs2019-online/rs2?filepath=%2FRS2%2FRS2.ipynb)
+- RS2 : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cedias/rs2019-online/rs2?filepath=%2FRS2%2FRS2.ipynb)
 - RS3 : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cedias/rs2019-online/rs3?filepath=%2FRS3%2FRS3.ipynb)
 - RS4 : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cedias/rs2019-online/rs4?filepath=%2FRS4%2FRS4.ipynb)
 
