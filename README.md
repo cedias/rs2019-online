@@ -16,7 +16,7 @@ This is the online version of [reco2019](https://github.com/cedias/reco2019) rep
 - RS4 : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cedias/rs2019-online/master?filepath=RS4.ipynb)
 
 ## Google Colab:
-- RS1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cedias/rs2019-online/master/rs2019-online.ipynb)
+- RS1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cedias/rs2019-online/blob/master/RS1.ipynb)
 -
 -
 -
