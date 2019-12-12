@@ -17,6 +17,6 @@ This is the online version of [reco2019](https://github.com/cedias/reco2019) rep
 
 ## Google Colab:
 - RS1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cedias/rs2019-online/blob/master/RS1.ipynb)
-- RS1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cedias/rs2019-online/blob/master/RS2.ipynb)
-- RS1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cedias/rs2019-online/blob/master/RS3.ipynb)
-- RS1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cedias/rs2019-online/blob/master/RS4.ipynb)
+- RS2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cedias/rs2019-online/blob/master/RS2.ipynb)
+- RS3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cedias/rs2019-online/blob/master/RS3.ipynb)
+- RS4: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cedias/rs2019-online/blob/master/RS4.ipynb)
